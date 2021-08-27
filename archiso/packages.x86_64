@@ -17,7 +17,7 @@ clonezilla
 #cloud-init
 crda
 cryptsetup
-darkhttpd
+#darkhttpd
 ddrescue
 dhclient
 #dhcpcd
@@ -92,7 +92,7 @@ reflector
 reiserfsprogs
 rp-pppoe
 rsync
-rxvt-unicode-terminfo
+#rxvt-unicode-terminfo
 screen
 sdparm
 sg3_utils
@@ -331,7 +331,7 @@ ttf-ubuntu-font-family
 #openbox-arc-git
 
 ###utilities
-arandr
+#arandr
 asciinema
 bash-completion
 #baobab
@@ -350,7 +350,7 @@ file-roller
 git
 gksu
 #glances
-gnome-disk-utility
+#gnome-disk-utility
 #gnome-keyring
 #gnome-screenshot
 #gnome-software
@@ -358,9 +358,9 @@ gnome-disk-utility
 gparted
 #gpick
 #gtop
-hardinfo
+#hardinfo
 #hddtemp
-htop
+#htop
 #hunspell
 #hunspell-en_US
 hw-probe
@@ -382,7 +382,7 @@ playerctl
 polkit
 #polkit-gnome
 #python2-dbus
-python2-xdg
+#python2-xdg
 #qt4
 #qt5ct
 #qt5-styleplugins
@@ -392,7 +392,7 @@ qt5-webkit
 #redshift
 ripgrep
 #rofi
-rxvt-unicode
+#rxvt-unicode
 #simple-scan
 #shotwell
 speedtest-cli-git
@@ -408,8 +408,8 @@ unzip
 #vnstat
 w3m
 webkit2gtk
-wmctrl
-xapp
+#wmctrl
+#xapp
 #xdo
 #xdotool
 xdg-desktop-portal-gtk
@@ -460,15 +460,15 @@ ttf-ms-fonts
 mkinitcpio-openswap
 
 ###utilities-repo
-alacritty
+#alacritty
 appstream
-archiso
+#archiso
 conky-lua-archers
 downgrade
 #font-manager-git
 #glxinfo
 #gitahead-bin
-grub-customizer
+#grub-customizer
 hardcode-fixer-git
 inxi
 mintstick-git
@@ -487,9 +487,9 @@ python-pyparted
 sublime-text-4
 #the_platinum_searcher-bin
 #trizen
-urxvt-fullscreen
-urxvt-perls
-urxvt-resize-font-git
+#urxvt-fullscreen
+#urxvt-perls
+#urxvt-resize-font-git
 #wttr
 yad
 #yakuake
@@ -508,7 +508,7 @@ yay-bin
 #                           ARCOLINUX FOLDER
 ###########################################################################
 
-arcolinux-alacritty-git
+#arcolinux-alacritty-git
 #arcolinux-arc-kde
 #arcolinux-arc-themes-git
 arcolinux-bin-git
@@ -557,7 +557,7 @@ arcolinux-pipemenus-git
 #arcolinux-plank-themes-git
 #arcolinux-plasma-kservices-git
 #arcolinux-polybar-git
-arcolinux-qt5-git
+#arcolinux-qt5-git
 #arcolinux-qt5-plasma-git
 #arcolinux-rofi-git
 #arcolinux-rofi-themes-git
