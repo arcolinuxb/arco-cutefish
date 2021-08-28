@@ -398,7 +398,7 @@ ripgrep
 speedtest-cli-git
 #telegram-desktop
 #timeshift
-#tlp
+tlp
 tree
 #ufw
 #gufw
@@ -513,8 +513,8 @@ yay-bin
 #arcolinux-arc-themes-git
 arcolinux-bin-git
 #arcolinux-common-git
-arcolinux-conky-collection-git
-#arcolinux-conky-collection-plasma-git
+#arcolinux-conky-collection-git
+arcolinux-conky-collection-plasma-git
 #arcolinux-cron-git
 #arcolinux-docs-git
 arcolinux-desktop-trasher-git
