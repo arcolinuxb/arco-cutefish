@@ -29,7 +29,7 @@ echo
 	desktop="cutefish"
 	dmDesktop="cutefish-xsession"
 
-	arcolinuxVersion='v22.09.03'
+	arcolinuxVersion='v22.09.04'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
