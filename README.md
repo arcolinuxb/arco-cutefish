@@ -1,8 +1,8 @@
-# ArcoLinux BYOI Awesome desktop
+# ArcoLinux BYOI Cutefish desktop
 
 # Get your code to build your own iso
 
-	git clone https://github.com/arcolinuxb/arco-awesome
+	git clone https://github.com/arcolinuxb/arco-cutefish
 
 # Follow installation tutorials on
 
