@@ -450,7 +450,7 @@ mkinitcpio-openswap
 #alacritty
 appstream
 #archiso
-conky-lua-archers
+#conky-lua-archers
 downgrade
 #font-manager
 #glxinfo
@@ -501,7 +501,7 @@ arcolinux-bin-git
 #a-candy-beauty-icon-theme-git
 #arcolinux-common-git
 #arcolinux-conky-collection-git
-arcolinux-conky-collection-plasma-git
+#arcolinux-conky-collection-plasma-git
 #arcolinux-cron-git
 #arcolinux-docs-git
 arcolinux-desktop-trasher-git
